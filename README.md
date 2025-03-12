@@ -11,5 +11,5 @@ ONLY ONE person can edit the project files at a time.
 6. Export to .twee file: Build -> export to twee file -> in your Downloads folder.
 7. Upload to .twee file to github: Upload Files -> add commit message -> Done :)
 
-8. If you are having trouble upload the .twee file to Discord with Time edited and Name in the filename: e.g. "376W Project <Name> <Jan 1st 0940>.twee"
+8. If you are having trouble upload the .twee file to Discord with Time edited and Name in the filename: e.g. "376W Project Name Jan 1st 0940.twee"
 
