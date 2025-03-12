@@ -29,12 +29,10 @@
 
 	The situation deteriorates, in some cities protestors become violent and clash with law enforcement, who respond with violence in equal magnitude. Surveillance taskforces have been fully-deployed with drones, facial recognition software, and IMSI tracking systems in every urban centre. Curfews are enforced in some cities with Political leaders debating the use of the national guard. Q Industries has already started building a database including the names, phone-numbers, and addresses of every person detected at scenes of major disruption. 
     
-    You are uneasy. What seemed a bad situation a week ago only got worse. You decide to seek advice from co-workers.
+    You are uneasy. What seemed a bad situation a week ago became far worse. You decide to seek advice from co-workers.
     
     [[Talk to a friend]]
     [[Talk to your manager]]
-    
-
 
 
 :: I'm on it, great idea! {"position":"975,1125","size":"100,100"}
@@ -52,7 +50,9 @@
 :: I'm sure we'll catch the bad guys {"position":"700,900","size":"100,100"}
 # Big opportunity
 
-	A week goes by, and the protests are still going strong. Q Industries continues to underperform. You wake up one morning to an email. The company will be rapidly developing the autonomous non-lethal weaponry system to disperse the demonstrations. It is announced that your team will be designated redundant unless you join the development team for the autonomous weaponry project. Some engineers hear this and resign on the spot, Q Industries launches a lawsuit against them.
+	A week goes by, and the protests are still going strong. Q Industries continues to underperform in the stock market.
+    
+    You wake up one morning to an email. The company will be rapidly developing an autonomous non-lethal weaponry system to disperse the demonstrations. It is announced that your team will be designated redundant unless you join the development team for the autonomous weaponry project. Some engineers hear this and resign on the spot, Q Industries launches a lawsuit against them.
     
     Will you join the team?
     
@@ -76,8 +76,6 @@
     
     [[I quit, and I'm going skiing|Skiing sounds fun, can I join?]]
     [[I'll stick around till the end of payroll|No thanks]]
-    
-    
 
 
 :: Shaky horizons {"position":"675,500","size":"100,100"}
@@ -87,7 +85,7 @@
     
     There is much debate about the incident and the underlying factors that caused it. Front and centre in the debate is Q Industries, a vendor of law enforcement technologies. Sentiments in the stock market turn negative for Q Industries. As political-pundits squabble over the air-time, police presence builds in every major city in response to the protests, with Q Industries technologies deployed on the front lines.
     
-    You are now witnessing the surveillance technologies you and your team helped develop being deployed against your fellow countrymen at full scale. 
+    You are now witnessing the vision and surveillance technologies you and your team helped develop being deployed against your fellow countrymen at full scale. 
     
     [[Dilemma]]
 
@@ -97,7 +95,7 @@
 
 	You and a work friend go on a ski holiday to think things over. You discuss the autonomous weapons project and it's implications and both decide to resign. Upon hearing this both your teams decide to resign also, and some members even decide to go public about the autonomous weapons program. Q Industries attempts to sue for breach of non-disclosure. While Q Industries was initially successful, you successfully counter-sue Q Industries for retaliation. You and your team members are compensated for your losses, and eventually find new jobs.
     
-    The autonomous weapons program falls apart due to lack of key leadership. After a month the protests disperse. A few people are tried and found guilty of disturbing the peace but many trouble makers get away. The metropolitan police launch a reform and accountability program. City centres recover quickly after that. Q Industries never fully recovers from the political and financial fallout, investors leave in droves. An ethics commision is launched to investigate the legality and effectiveness of surveillance in crime prevention, and the use of autonous weapons systems by law enforcement. 
+    The autonomous weapons program falls apart due to lack of key leadership. After a month the protests disperse. A few people are tried and found guilty of disturbing the peace but many trouble makers get away. The metropolitan police launch a reform and accountability program. City centres recover quickly after that. Q Industries never fully recovers from the political and financial fallout, investors leave in droves. An ethics commision is launched to investigate the legality and effectiveness of surveillance in crime prevention, and the use of autonous weapons systems by law enforcement.
 
 
 :: Start Page {"position":"675,250","size":"100,100"}
@@ -110,9 +108,6 @@ https://ethics.acm.org/code-of-ethics/using-the-code/case-automated-active-respo
 [[All is well]]
 
 
-
-
-
 :: Talk to a friend {"position":"675,750","size":"100,100"}
 # Like Minds?
 
@@ -120,9 +115,9 @@ https://ethics.acm.org/code-of-ethics/using-the-code/case-automated-active-respo
     
     "This all seems out of hand" they say "I didn't mind developing tools for the police, but I am uncomfortable with these tools being used at full deployment against people just protesting. Of course there are violent individuals, but most people out there are pretty much peaceful. Don't they have a right to protest?"
     
-    You are hit with a troubling thought: you helped developed surveillance technologies believing it would protect people from violent crime, but these technologies are being used by police to surveille people simply protesting police brutality. Perhaps that's a conflict of interest? You might get the bad actors in the end, but how many people will have their privacy breached in the process? Is this tradeoff livable? Did these people sign a terms-of-service agreement before being monitored? Is this actually legal? 
+    You are hit with a troubling thought: you helped developed surveillance technologies for police use believing it would protect people from violent crime, but these technologies are being used by police to surveille people simply protesting police brutality. Perhaps that's a conflict of interest? You might get the bad actors in the end, but how many people will have their privacy breached in the process? Is this tradeoff livable? Did these people sign a terms-of-service agreement before being monitored? Is this actually legal? 
     
-    "Management approached me and asked if I want to lead a secret project, apparently they want to develop an autonomous weapons system, but the whole thing sounds like an ethical nightmare." your friend says
+    "Management approached me and asked if I want to lead a secret project, apparently they want to develop an autonomous weapons system, but the whole thing sounds like an ethical nightmare." your friend says.
     
     "I'm gonna take some time off and go to back home for a few weeks, go skiing and just figure out what to do next ... I don't think I want to stick around at this job." says your friend. 
     
@@ -144,4 +139,3 @@ Finally the door to your manager's office swings open.
     
     [[Seriously?? I resent the idea]]
     [[I'm on it, great idea!]]
-    
